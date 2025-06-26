@@ -7,7 +7,7 @@ export const personalInfo = {
   location: "Hyderabad, India",
   linkedIn: "https://linkedin.com/in/basani-rithvik-reddy",
   github: "https://github.com/rithvikreddybasani",
-  website: "",
+  website: "https://rithvik-reddy-portfolio.vercel.app/",
   profileImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1728801079/mh3mx3gss79wbptb4fdb.jpg"
 };
 
