@@ -229,8 +229,17 @@ export const achievements = [
     icon: "shield" as const,
     certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750928374/IMG-20250224-WA0011_ab0lxv.jpg"
   },
-  {
+   {
     id: "7",
+    title: "Research Intern",
+    description: "Certified in Google Cloud Platform architecture, deployment, and management. Demonstrates ability to design and manage robust, secure, scalable cloud solutions.",
+    date: "2025",
+    type: "certification" as const,
+    icon: "shield" as const,
+    certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1752384295/WhatsApp_Image_2025-07-13_at_10.52.06_cfd2a8bf_p6abkb.jpg"
+  },
+  {
+    id: "8",
     title: "FrontEnd Fusion",
     description: "Certified in Google Cloud Platform architecture, deployment, and management. Demonstrates ability to design and manage robust, secure, scalable cloud solutions.",
     date: "2022",
@@ -239,7 +248,7 @@ export const achievements = [
     certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750927351/IMG-20250626-WA0006_qs92mf.jpg"
   },
   {
-    id: "8",
+    id: "9",
     title: "Iot Workshop",
     description: "Significant contributions to popular open-source projects including React, Node.js ecosystem packages, and developer tools used by thousands of developers.",
     date: "2021-2023",
@@ -248,7 +257,7 @@ export const achievements = [
     certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750927259/IMG-20250626-WA0010_gstjca.jpg"
   },
   {
-    id: "9",
+    id: "10",
     title: "CodeFusion",
     description: "Outstanding performance in technical innovation challenge, demonstrating exceptional problem-solving skills and creative thinking.",
     date: "2023",
@@ -257,7 +266,7 @@ export const achievements = [
     certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750927335/IMG-20250626-WA0004_d73av0.jpg"
   },
   {
-    id: "10",
+    id: "11",
     title: "Coding Club Coordinator",
     description: "Certified Kubernetes Administrator (CKA) demonstrating skills in cluster management, networking, security, and troubleshooting in production environments.",
     date: "2023",
@@ -266,7 +275,7 @@ export const achievements = [
     certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750927814/Screenshot_2025-06-26_141958_pgketb.png"
   },
   {
-    id: "11",
+    id: "12",
     title: "3rd Position in AI for India Hackathon",
     description: "Certified Kubernetes Administrator (CKA) demonstrating skills in cluster management, networking, security, and troubleshooting in production environments.",
     date: "2023",
@@ -275,7 +284,7 @@ export const achievements = [
     certificateImage: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750927447/WhatsApp_Image_2025-06-26_at_14.13.18_831aac55_phkea4.jpg"
   },
   {
-    id: "12",
+    id: "13",
     title: "TroubleShoot",
     description: "Certified Kubernetes Administrator (CKA) demonstrating skills in cluster management, networking, security, and troubleshooting in production environments.",
     date: "2023",
