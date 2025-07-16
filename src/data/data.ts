@@ -83,8 +83,8 @@ export const projects = [
     description: "An AI powered assistant which perform tasks such as opening applications, memory system, playing videos, respond to user questions using llms",
     image: "https://res.cloudinary.com/dddfjpzqu/image/upload/v1750925290/Screenshot_2025-05-12_190311_tjnswm.png",
     technologies: ["Python", "YOLO", "OpenCV", "Speech Recognition", "LLMs"],
-    liveUrl: "https://github.com/rithvikreddybasani/AI-Assistant", // Desktop application - no live URL
-    githubUrl: "https://github.com/rithvikreddybasani/AI-Assistant",
+    liveUrl: "https://drive.google.com/file/d/1cThdRVm8_7rwwH0HFgZwMclB8RVnFyqF/view?usp=sharing", // Desktop application - no live URL
+    githubUrl: "https://drive.google.com/file/d/1cThdRVm8_7rwwH0HFgZwMclB8RVnFyqF/view?usp=sharing",
     category: "AI/ML"
   },
   {
