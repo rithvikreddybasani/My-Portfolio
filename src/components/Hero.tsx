@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in-up">
           <a
-            href="https://drive.google.com/file/d/1your-resume-file-id/view?usp=sharing"
+            href="https://drive.google.com/file/d/1sk25yzTEtw_A5LxwmjRMeGpLwrOXK6i-/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-8 py-4 rounded-full font-semibold hover:from-cyan-600 hover:to-blue-700 transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/25 flex items-center gap-2"
